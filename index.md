@@ -1,5 +1,3 @@
-## Getting started with code
-
 Hello!
 
 If you haven't worked with computer code before, it's useful to cover some of the fundamentals before beginning your study in September. If you already know the basics, you'll find it easier to progress quickly once you arrive.
