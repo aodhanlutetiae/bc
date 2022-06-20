@@ -1,3 +1,3 @@
 # bc
 
-Material for future students who want to learn, revise, some coding basics.
+Material for future Compj students who want to learn, or revise, some coding basics.
