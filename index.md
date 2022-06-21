@@ -2,7 +2,7 @@ Hello!
 
 If you haven't worked with computer code before, it's useful to cover some of the fundamentals before beginning your study in September. If you already know the basics, you'll find it easier to progress quickly once you arrive.
 
-The first two online courses outline the Python programming language that you'll be using a lot. This is a really versatile language and you'll be able to put it to work for lots of things. And happily it's pretty easy to get started with.
+The first two online courses outline the Python programming language that you'll be using a lot. This is a really versatile language and you'll be able to put it to work for lots of things. And, happily, it's pretty easy to get started with.
 
 Then there are two courses on web development: one on HTML which is used to build web pages, and another on CSS which often controls how they look.
 
