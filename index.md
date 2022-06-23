@@ -4,11 +4,11 @@ If you haven't worked with computer code before, it's useful to cover some of th
 
 The first two online courses outline the Python programming language that you'll be using a lot. This is a really versatile language and you'll be able to put it to work for lots of things. And, happily, it's pretty easy to get started with.
 
-Then there are two courses on web development: one on HTML which is used to build web pages, and another on CSS which often controls how they look.
+Then there are courses about web development: HTML which is used to build web pages, and CSS which often controls how they look.
 
 You don't have to use *these* courses; if you want to learn the same stuff in a different way, go for it.
 
-Finally there are two more online courses. One is a series of challenges to work on your Python skills and solve some problems; the other is an introduction to Javascript, another powerful programming language you'll use from September.
+Finally there are some online courses to practice Python, do general problem solving and learn some Javascript (another powerful programming language you'll use from September).
 
 
 ---
