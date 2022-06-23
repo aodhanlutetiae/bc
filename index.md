@@ -29,8 +29,8 @@ Finally there are some online courses to practice Python, do general problem sol
 
 [Python Challenges (Hackinscience Python Basics 1-18)](https://www.hackinscience.org/exercises/)
 
-[General programming challenges ](https://www.codewars.com/)
+[General programming challenges (Codewars)](https://www.codewars.com/)
 
-[Introduction to Javascript (Code Academy](https://www.codecademy.com/learn/introduction-to-javascript)
+[Introduction to Javascript (Code Academy)](https://www.codecademy.com/learn/introduction-to-javascript)
 
 [Basic Javascript (Free Code Camp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
