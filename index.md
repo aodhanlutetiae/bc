@@ -10,6 +10,7 @@ You don't have to use *these* courses; if you want to learn the same stuff in a 
 
 Finally there are two more online courses. One is a series of challenges to work on your Python skills and solve some problems; the other is an introduction to Javascript, another powerful programming language you'll use from September.
 
+
 ---
 ## Essentials
 
@@ -17,13 +18,19 @@ Finally there are two more online courses. One is a series of challenges to work
 
 [Learn Python 3 from scratch (Educative)](https://www.educative.io/courses/learn-python-3-from-scratch)
 
-[Learn HTML by building a cat photo app (Free code camp)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+[Learn HTML by building a cat photo app (Free Code Camp)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
-[Learn basic CSS by building a cafe menu (Free code camp)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+[Learn HTML (Code Academy)](https://www.codecademy.com/learn/learn-html)
+
+[Learn basic CSS by building a cafe menu (Free Code Camp)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ---
 ## More
 
 [Python Challenges (Hackinscience Python Basics 1-18)](https://www.hackinscience.org/exercises/)
 
-[Basic Javascript (Free code camp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+[General programming challenges ](https://www.codewars.com/)
+
+[Introduction to Javascript (Code Academy](https://www.codecademy.com/learn/introduction-to-javascript)
+
+[Basic Javascript (Free Code Camp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
